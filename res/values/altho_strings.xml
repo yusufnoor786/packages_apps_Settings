@@ -12,6 +12,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+   <!-- SELinux -->
+    <Preference
+        android:key="selinux_status"
+        android:title="@string/selinux_status"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="false"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.SelinuxStatusPreferenceController"/>
+
    <!-- Altho Version Preference -->
    <string name="Altho_version">"Altho version"</string>
 
