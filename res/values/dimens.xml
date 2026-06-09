@@ -562,4 +562,9 @@
     <dimen name="bluetooth_battery_indicator_battery_meter_height">16dp</dimen>
     <dimen name="bluetooth_battery_indicator_charging_icon_width">12dp</dimen>
     <dimen name="bluetooth_battery_indicator_charging_icon_height">16dp</dimen>
+
+    <dimen name="matrixx_hw_info_icons">30dp</dimen>
+    <dimen name="matrixx_card_radius">5dp</dimen>
+    <dimen name="matrixx_card_side_margin">18dp</dimen>
+    
 </resources>
