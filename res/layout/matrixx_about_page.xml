@@ -172,6 +172,7 @@
                 android:layout_weight="5.0">
                 <ImageView
                     android:src="@drawable/ic_cpu"
+                    android:background="@drawable/single_background_top"
                     android:gravity="start"
                     android:layout_gravity="start"
                     android:layout_width="@dimen/matrixx_hw_info_icons"
@@ -201,6 +202,7 @@
                 android:layout_weight="5.0">
                 <ImageView
                     android:src="@drawable/ic_ram"
+                    android:background="@drawable/single_background_top"
                     android:gravity="start"
                     android:layout_gravity="start"
                     android:layout_width="@dimen/matrixx_hw_info_icons"
@@ -238,6 +240,7 @@
                 android:layout_weight="5.0">
                 <ImageView
                     android:src="@drawable/ic_battery"
+                    android:background="@drawable/single_background_top"
                     android:gravity="start"
                     android:layout_gravity="start"
                     android:layout_width="@dimen/matrixx_hw_info_icons"
@@ -269,6 +272,7 @@
                 android:layout_weight="5.0">
                 <ImageView
                     android:src="@drawable/ic_storage"
+                    android:background="@drawable/single_background_top"
                     android:gravity="start"
                     android:layout_gravity="start"
                     android:layout_width="@dimen/matrixx_hw_info_icons"

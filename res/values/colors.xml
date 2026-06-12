@@ -303,5 +303,5 @@
 
    <color name="user_crd_bg">@color/settingslib_materialColorSurfaceBright</color>
 
-   <color name="matrixx_card_background">@android:color/system_neutral1_50</color>
+   <color name="matrixx_card_background">#2A000000</color>
 </resources>
